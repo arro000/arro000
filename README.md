@@ -31,7 +31,7 @@ I like projects that solve a real annoyance: merge conflicts that take too long,
 ## Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,vue,nodejs,php,python,rust,c,solidity,docker,kubernetes,aws,mongodb,git,githubactions,linux&perline=10" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,angular,vue,nodejs,php,python,c,solidity,docker,kubernetes,aws,mongodb,git,githubactions,linux&perline=10" alt="Technology stack" />
 </div>
 
 <details>
