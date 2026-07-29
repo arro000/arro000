@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=Andrea%20Arrighi&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-source%20contributor&descAlignY=57&animation=fadeIn" alt="Andrea Arrighi — Software Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:2563eb,100:06b6d4&text=Andrea%20Arrighi&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-source%20contributor&descAlignY=57&animation=fadeIn" alt="ARRO000 — Software Engineer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Full-stack+software+engineer;Developer+tools+%26+systems+enthusiast;From+web+apps+to+native+utilities;Building+useful+things%2C+one+commit+at+a+time" alt="Animated typing introduction" />
